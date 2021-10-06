@@ -10,4 +10,4 @@ def factorial(x):
 
     return total
 
-print(factorial())
+print(factorial(5))
